@@ -1,0 +1,35 @@
+<?wpl version="1.0"?>
+<smil>
+    <head/>
+    <body>
+        <seq>
+            <media src="Music\El Poder Del Ahora CD. 1\01 Eckhart Tolle - Pista 01.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\02 Eckhart Tolle - Pista 02.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\03 Eckhart Tolle - Pista 03.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\04 Eckhart Tolle - Pista 04.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\05 Eckhart Tolle - Pista 05.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\06 Eckhart Tolle - Pista 06.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\07 Eckhart Tolle - Pista 07.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\08 Eckhart Tolle - Pista 08.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\09 Eckhart Tolle - Pista 09.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\10 Eckhart Tolle - Pista 10.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 1\11 Eckhart Tolle - Pista 11.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 2\12 Eckhart Tolle - Pista 01.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 2\13 Eckhart Tolle - Pista 02.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 2\14 Eckhart Tolle - Pista 03.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 2\15 Eckhart Tolle - Pista 04.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 2\16 Eckhart Tolle - Pista 05.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 2\17 Eckhart Tolle - Pista 06.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 2\18 Eckhart Tolle - Pista 07.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 2\19 Eckhart Tolle - Pista 08.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 3\20 Eckhart Tolle - Pista 01.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 3\21 Eckhart Tolle - Pista 02.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 3\22 Eckhart Tolle - Pista 03.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 3\23 Eckhart Tolle - Pista 04.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 3\24 Eckhart Tolle - Pista 05.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 3\25 Eckhart Tolle - Pista 06.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 3\26 Eckhart Tolle - Pista 07.mp3"/>
+            <media src="Music\El Poder Del Ahora CD. 3\27 Eckhart Tolle - Pista 08.mp3"/>
+        </seq>
+    </body>
+</smil>
